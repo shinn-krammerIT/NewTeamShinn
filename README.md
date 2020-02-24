@@ -4,3 +4,4 @@ Speedrun
 TeamShinn:
 Shinn
 Travis
+Daniel
