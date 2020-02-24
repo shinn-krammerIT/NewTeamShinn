@@ -1,2 +1,5 @@
 # NewTeamShinn
 Speedrun
+
+TeamShinn:
+Shinn
